@@ -1,0 +1,11 @@
+.Home{
+    min-height: 100vh;
+    min-width: 100vh;
+    display: flex;
+    background-color: silver;
+    margin: 0;
+}
+
+.Home-body{
+    margin: auto;
+}
